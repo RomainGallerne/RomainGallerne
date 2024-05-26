@@ -3,7 +3,7 @@
 
 `🙆‍♂️` Né en 2002, passioné d'informatique et d'IA.
 
-`🎓` Je suis étudiant à l'[Université de Montpellier](https://sciences.edu.umontpellier.fr/en/welcome-to-the-faculty-of-sciences/) en [Master Intelligence Artificielle et Science des données]([https://informatique-fds.edu.umontpellier.fr/etudiants/master-informatique-parcours/parcours-gl-genie-logiciel/](https://informatique-fds.edu.umontpellier.fr/etudiants/master-informatique-parcours/parcours-iasd-intelligence-artificielle-et-science-des-donnees-ouverture-septembre-2021/)).
+`🎓` Je suis étudiant à l'[Université de Montpellier](https://sciences.edu.umontpellier.fr/en/welcome-to-the-faculty-of-sciences/) en [Master Intelligence Artificielle et Science des données](https://informatique-fds.edu.umontpellier.fr/etudiants/master-informatique-parcours/parcours-iasd-intelligence-artificielle-et-science-des-donnees-ouverture-septembre-2021/).
 
 
 # 💻 Outils informatiques
