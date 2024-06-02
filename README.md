@@ -1,5 +1,5 @@
 
-# Salut 👋 ! Moi c'est **Romain GALLERNE**
+# Salut 👋 ! Moi c'est **Romain**
 
 `🙆‍♂️` Né en 2002, passioné d'informatique et d'IA.
 
