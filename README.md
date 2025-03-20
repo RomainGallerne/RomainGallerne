@@ -5,6 +5,8 @@
 
 `🎓` Je suis étudiant à l'[Université de Montpellier](https://sciences.edu.umontpellier.fr/en/welcome-to-the-faculty-of-sciences/) en [Master Intelligence Artificielle et Science des données](https://informatique-fds.edu.umontpellier.fr/etudiants/master-informatique-parcours/parcours-iasd-intelligence-artificielle-et-science-des-donnees-ouverture-septembre-2021/).
 
+`🤖` Je suis également alternant à l'[Institut de Science des Données de Montpellier](https://isdm.umontpellier.fr/) en tant qu'**Ingénieur en Intelligence Artificielle**.
+
 
 # 💻 Outils informatiques
 
@@ -66,5 +68,4 @@ Feel free to contact me in English or French !
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RomainGallerne)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/romain-gallerne-72a108200/)
 
-[![Email Universitaire](https://img.shields.io/badge/Email_Universitaire-9cf?style=for-the-badge&logo=gmail)](mailto:romain.gallerne@etu.umontpellier.fr)
 [![Email Professionnel](https://img.shields.io/badge/Email_Professionnel-9cf?style=for-the-badge&logo=gmail)](mailto:romain.gallerne08@gmail.com)
